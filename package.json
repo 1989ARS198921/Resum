@@ -1,0 +1,19 @@
+{
+  "name": "resum",
+  "version": "1.0.0",
+  "description": "my_res",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "my_res_esy"
+  },
+  "author": "Ars",
+  "license": "ISC"
+}
